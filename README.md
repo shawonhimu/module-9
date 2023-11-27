@@ -21,3 +21,9 @@ Command:
 
 Command:
 => php artisan serve
+
+**To connect with database we have to open <strong>.env</strong> file then we have to change 
+
+<strong>DB_DATABASE = portfolio_website</strong><br/>
+<strong>DB_USERNAME = root</strong><br/>
+<strong>DB_PASSWORD = </strong>
