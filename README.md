@@ -8,19 +8,18 @@
 *** To set up a new laravel project, we have to run the below command from our desired directory
 
 Command:
-=> composer create-project laravel/laravel module-9-assignment
-
+<h4>=> composer create-project laravel/laravel module-9-assignment</h4>
 
 *** To run the project, we have to make sure that we are in the desired directory we have decided to run.
 or, we can run this command to cmd/git-bash to the directory
 
 Command:
-=> cd module-9-assignment
+<h4>=> cd module-9-assignment</h4>
 
 *** To run the project we have to run the below command and to be ensure the directory
 
 Command:
-=> php artisan serve
+<h4>=> php artisan serve</h4>
 
 **To connect with database we have to open <strong>.env</strong> file then we have to change 
 
